@@ -76,4 +76,4 @@ yashwanthcp1411@gmail.com
 
 https://www.linkedin.com/in/yashwanthcp/
 
-github.com/YashwanthCP14
+https://github.com/YashwanthCP14
