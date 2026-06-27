@@ -74,6 +74,6 @@ Contact
 
 yashwanthcp1411@gmail.com
 
-linkedin.com/in/yashwanthcp
+https://www.linkedin.com/in/yashwanthcp/
 
 github.com/YashwanthCP14
